@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GingerRepositoryItem><Header ItemGuid="5117f389-0da5-45d6-8622-1046bd324170" ItemType="RunSetConfig" CreatedBy="balar" Created="202310191320" GingerVersion="5.3.0.0" Version="2" LastUpdateBy="balar" LastUpdate="202310191321" />
+<RunSetConfig Guid="5117f389-0da5-45d6-8622-1046bd324170" Name="Default Run Set" ParentGuid="00000000-0000-0000-0000-000000000000" SealightsTestRecommendations="No">
+<CategoriesDefinitions>
+<SolutionCategoryDefinition Category="Product" Guid="4dfd032d-436e-4085-b7c7-3651878acc7f" ParentGuid="00000000-0000-0000-0000-000000000000" SelectedValueID="00000000-0000-0000-0000-000000000000" />
+<SolutionCategoryDefinition Category="TestType" Guid="a1080b63-5d34-44b5-b0fc-78623ed7331d" ParentGuid="00000000-0000-0000-0000-000000000000" SelectedValueID="00000000-0000-0000-0000-000000000000" />
+<SolutionCategoryDefinition Category="Release" Guid="89f45f00-2bde-44d9-a431-f0ad29fb57b3" ParentGuid="00000000-0000-0000-0000-000000000000" SelectedValueID="00000000-0000-0000-0000-000000000000" />
+<SolutionCategoryDefinition Category="Iteration" Guid="9a8d90a7-2110-49a2-8b45-44fb9b00d4d5" ParentGuid="00000000-0000-0000-0000-000000000000" SelectedValueID="00000000-0000-0000-0000-000000000000" />
+<SolutionCategoryDefinition Category="UserCategory1" Guid="857bb787-ad73-4ba6-bd6a-60f49c2b1b25" ParentGuid="00000000-0000-0000-0000-000000000000" SelectedValueID="00000000-0000-0000-0000-000000000000" />
+<SolutionCategoryDefinition Category="UserCategory2" Guid="02546252-762c-4f2f-aa72-34dffaafa8ab" ParentGuid="00000000-0000-0000-0000-000000000000" SelectedValueID="00000000-0000-0000-0000-000000000000" />
+<SolutionCategoryDefinition Category="UserCategory3" Guid="fc783882-4b75-4f74-9e12-1c6fee877ddb" ParentGuid="00000000-0000-0000-0000-000000000000" SelectedValueID="00000000-0000-0000-0000-000000000000" />
+</CategoriesDefinitions>
+
+<GingerRunners>
+<GingerRunner Guid="05c2cf65-59cb-4a9a-8bc9-7c3707476255" Name="Runner 1" ParentGuid="00000000-0000-0000-0000-000000000000" RunOption="ContinueToRunall">
+<ApplicationAgents>
+<ApplicationAgent AgentID="aa16aa69-0647-4bf2-9166-be239c429268" AgentName="Amazon - Agent 1" AppID="43c9c374-7ac5-4f1f-93a3-0cfb2420e5c1" AppName="Amazon" Guid="16b01c36-be55-4e89-9205-d1988df50640" ParentGuid="00000000-0000-0000-0000-000000000000" />
+</ApplicationAgents>
+
+<BusinessFlowsRunList>
+<BusinessFlowRun BusinessFlowGuid="6a600fae-73f5-4638-bad8-397444cc8109" BusinessFlowInstanceGuid="f2cf3077-d080-4dc1-b560-f979904d8442" BusinessFlowIsActive="True" BusinessFlowName="Amazon web testing" Guid="9310fe5b-e9f6-4c7a-a28e-70ae7fe2f5e7" ParentGuid="00000000-0000-0000-0000-000000000000" />
+</BusinessFlowsRunList>
+</GingerRunner>
+</GingerRunners>
+
+<SelfHealingConfiguration>
+<SelfHealingConfig EnableSelfHealing="True" Guid="17c08816-e885-4a49-b4c5-595e0e1b3f36" ParentGuid="00000000-0000-0000-0000-000000000000" ReprioritizePOMLocators="True" />
+</SelfHealingConfiguration>
+</RunSetConfig></GingerRepositoryItem>

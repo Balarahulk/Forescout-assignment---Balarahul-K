@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GingerRepositoryItem><Header ItemGuid="c726d226-6b07-4b26-ad38-e01d5818d5e5" ItemType="ProjEnvironment" CreatedBy="balar" Created="202310180939" GingerVersion="5.3.0.0" Version="1" LastUpdateBy="balar" LastUpdate="202310180939" />
+<ProjEnvironment Guid="c726d226-6b07-4b26-ad38-e01d5818d5e5" Name="Default" ParentGuid="00000000-0000-0000-0000-000000000000">
+<Applications>
+<EnvApplication Active="True" Guid="da188ffb-7a66-4ec2-9e57-4ea8d618e8ba" Name="Amazon" ParentGuid="00000000-0000-0000-0000-000000000000" />
+</Applications>
+</ProjEnvironment></GingerRepositoryItem>

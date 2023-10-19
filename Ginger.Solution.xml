@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GingerRepositoryItem><Header ItemGuid="e4bee4f8-e055-4655-b64b-35de2305e339" ItemType="Solution" CreatedBy="balar" Created="202310180939" GingerVersion="5.3.0.0" Version="2" LastUpdateBy="balar" LastUpdate="202310180955" />
+<Solution EncryptedValidationString="oRi0ozP7MIUzU8ZzOD0VFA==" Guid="e4bee4f8-e055-4655-b64b-35de2305e339" Name="Forescout assignment" ParentGuid="00000000-0000-0000-0000-000000000000">
+<ApplicationPlatforms>
+<ApplicationPlatform AppName="Amazon" Guid="43c9c374-7ac5-4f1f-93a3-0cfb2420e5c1" ParentGuid="00000000-0000-0000-0000-000000000000" Platform="Web" />
+</ApplicationPlatforms>
+
+<ApplitoolsConfiguration>
+<ApplitoolsConfiguration Guid="6d2b7031-8bff-4af9-ae25-3676e7aa7375" ParentGuid="00000000-0000-0000-0000-000000000000" />
+</ApplitoolsConfiguration>
+
+<ExecutionLoggerConfigurationSetList>
+<ExecutionLoggerConfiguration DataPublishingPhase="DuringExecution" DeleteLocalDataOnPublish="No" ExecutionLoggerConfigurationExecResultsFolder="~\ExecutionResults" ExecutionLoggerConfigurationIsEnabled="True" ExecutionLoggerConfigurationMaximalFolderSize="250" Guid="64167d71-aea0-4274-bff6-20634827c2df" IsSelected="True" ParentGuid="00000000-0000-0000-0000-000000000000" PublishLogToCentralDB="No" SelectedDataRepositoryMethod="LiteDB" Seq="0" />
+</ExecutionLoggerConfigurationSetList>
+
+<HTMLReportsConfigurationSetList>
+<HTMLReportsConfiguration Guid="ac737586-69a8-4cb3-b4ab-d201e64e0da0" HTMLReportConfigurationMaximalFolderSize="0" HTMLReportsFolder="~\HTMLReports" HTMLReportTemplatesSeq="1" IsSelected="True" ParentGuid="00000000-0000-0000-0000-000000000000" Seq="0" />
+</HTMLReportsConfigurationSetList>
+
+<SealightsConfiguration>
+<SealightsConfiguration Guid="217eec6e-63c0-4aa4-b6fe-4868ed6cba71" ParentGuid="00000000-0000-0000-0000-000000000000" SealightsLog="No" SealightsReportedEntityLevel="BusinessFlow" SealightsTestRecommendations="No" />
+</SealightsConfiguration>
+
+<SolutionCategories>
+<SolutionCategory Category="Product" Guid="832a6353-ec66-4c86-a2bc-bb44475256db" ParentGuid="00000000-0000-0000-0000-000000000000">
+<CategoryOptionalValues>
+<SolutionCategoryValue Guid="506480b3-3eda-4189-b08a-96487cf414ba" ParentGuid="00000000-0000-0000-0000-000000000000" Value="Product 1" />
+<SolutionCategoryValue Guid="3cc6b9c7-dfa4-41ec-acc6-f70860eedbaf" ParentGuid="00000000-0000-0000-0000-000000000000" Value="Product 2" />
+</CategoryOptionalValues>
+</SolutionCategory>
+<SolutionCategory Category="TestType" Guid="cce42ea1-f097-4131-a342-13e9bd9a0104" ParentGuid="00000000-0000-0000-0000-000000000000">
+<CategoryOptionalValues>
+<SolutionCategoryValue Guid="2ed8dc15-f98a-4e6e-8a1c-d5e83ef700a1" ParentGuid="00000000-0000-0000-0000-000000000000" Value="Regression" />
+<SolutionCategoryValue Guid="12751d4a-5e73-45c7-b92a-d0cbef8133ec" ParentGuid="00000000-0000-0000-0000-000000000000" Value="Progression" />
+<SolutionCategoryValue Guid="d586c8fa-9e01-44f0-90ff-8cbb31fb872d" ParentGuid="00000000-0000-0000-0000-000000000000" Value="Sanity" />
+<SolutionCategoryValue Guid="7f5770d3-3517-4867-a650-9385a9e17f19" ParentGuid="00000000-0000-0000-0000-000000000000" Value="Acceptance" />
+<SolutionCategoryValue Guid="ed33311a-8f98-4b66-82e7-6b48c07d51a1" ParentGuid="00000000-0000-0000-0000-000000000000" Value="End to End" />
+<SolutionCategoryValue Guid="d650b448-3633-45a3-a443-2ac28c830f79" ParentGuid="00000000-0000-0000-0000-000000000000" Value="Security" />
+<SolutionCategoryValue Guid="0986c20d-6071-435e-8f42-213ae1e48c0c" ParentGuid="00000000-0000-0000-0000-000000000000" Value="Performance" />
+</CategoryOptionalValues>
+</SolutionCategory>
+<SolutionCategory Category="Release" Guid="07519e9b-0514-4905-aac9-70832a5cad3c" ParentGuid="00000000-0000-0000-0000-000000000000">
+<CategoryOptionalValues>
+<SolutionCategoryValue Guid="45e1b6c3-6926-4128-acdc-67941d1357ef" ParentGuid="00000000-0000-0000-0000-000000000000" Value="Release 1" />
+<SolutionCategoryValue Guid="1dde855c-cabe-428f-9688-44cfdbeff2d9" ParentGuid="00000000-0000-0000-0000-000000000000" Value="Release 2" />
+</CategoryOptionalValues>
+</SolutionCategory>
+<SolutionCategory Category="Iteration" Guid="56775ced-4766-48d3-97c8-de96ce2b0fc8" ParentGuid="00000000-0000-0000-0000-000000000000">
+<CategoryOptionalValues>
+<SolutionCategoryValue Guid="b08e765c-0250-4d85-9a7c-876241896e52" ParentGuid="00000000-0000-0000-0000-000000000000" Value="Iteration 1" />
+<SolutionCategoryValue Guid="bfea960d-9d7e-4aeb-ae2f-4f35abec7635" ParentGuid="00000000-0000-0000-0000-000000000000" Value="Iteration 2" />
+</CategoryOptionalValues>
+</SolutionCategory>
+<SolutionCategory Category="UserCategory1" Guid="a93ed6f9-ff0e-4f0b-a315-aa16da100bc8" ParentGuid="00000000-0000-0000-0000-000000000000" />
+<SolutionCategory Category="UserCategory2" Guid="4a18bc82-e014-436a-915e-9caa73ae6c22" ParentGuid="00000000-0000-0000-0000-000000000000" />
+<SolutionCategory Category="UserCategory3" Guid="fa2dcb80-34e6-48cf-8455-296cd0b458cc" ParentGuid="00000000-0000-0000-0000-000000000000" />
+</SolutionCategories>
+
+<VRTConfiguration>
+<VRTConfiguration DifferenceTolerance="0.0" FailActionOnCheckpointMismatch="Yes" Guid="6beff512-dac1-4149-9f1a-2e73f1c4bca6" ParentGuid="00000000-0000-0000-0000-000000000000" />
+</VRTConfiguration>
+</Solution></GingerRepositoryItem>
